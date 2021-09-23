@@ -1,0 +1,144 @@
+body{
+    font-family: "montserrat";
+    background-color: #000000;
+}
+
+
+
+/* #### TITLE-SECTION #### */
+
+#title{
+    background-color: #000000;
+    font-family: 'Montserrat Alternates', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+
+h1{
+    color: aliceblue;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* NAVBAR */
+.navbar{
+    background-color: #00fff0;
+    margin-bottom: 4.5rem;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.nav-item{
+    padding: 0 5px;
+}
+
+.navbar-brand{
+    /* font-family: 'ZCOOL KuaiLe', cursive; */
+    font-family: 'Damion', cursive;
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+
+/* DOWNLOAD-BUTTONS */
+.download-btn{
+    margin: 30px 15px 0 0;
+    padding: 5px 30px;
+}
+
+.btn-danger {
+    background-color: #00fff0;
+    color: #000;
+    border-color: #00fff0;
+}
+
+.btn-danger:hover {
+    background-color: black;
+    color: #00fff0;
+    border-color: #00fff0;
+}
+
+.btn-outline-danger{
+    color: #00fff0;
+    border-color: #00fff0;
+}
+
+.btn-outline-danger:hover{
+    background-color: #00fff0;
+    border-color: #00fff0;
+    color: #000;
+}
+
+/* TITLE-IMG */
+.title-img{
+    width: 80%;
+    float: right;
+}
+
+
+
+/* #### FEATURES-SECTION #### */
+.features-ico{
+    color: #000;
+    text-align: center;
+    padding: 0 5px;
+    margin-bottom: 30px;
+}
+
+.features-ico:hover{
+    color: #fff;
+}
+
+.feature-container{
+    margin:  130px auto auto auto;
+    padding: 5% 10% ;
+    text-align: center;
+    background-color: #00fff0;
+    filter: brightness(90%);
+}
+
+.feature-txt{
+    padding: 0 10px;
+    line-height: 1.5rem;
+}
+
+.feature-h3{
+    font-weight: bold;
+}
+
+/* #### TESTIMONIALS #### */
+#testimonials {
+    text-align: center;
+    color: #fff
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-item{
+    padding: 5% 10% ;
+}
+
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    text-align: center;
+    
+}
+
+/* #### NOTES #### */
+/*  
+    # adjust download button hover 
+    #
+*/
